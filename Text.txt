@@ -1,1 +1,2 @@
-This text file will be put into the GitHub directory.
+This text file will be put into the GitHub directory.  
+This is the second test.
